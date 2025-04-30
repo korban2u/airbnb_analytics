@@ -12,7 +12,10 @@ Une application web Django pour analyser les prix Airbnb tout au long de l'anné
 
 ## Captures d'écran
 
-*(Des captures d'écran du tableau de bord et des analyses seraient normalement affichées ici)*
+![Capture d'écran](screenshot/screenshot1.png)
+![Capture d'écran](screenshot/screenshot2.png)
+![Capture d'écran](screenshot/screenshot3.png)
+![Capture d'écran](screenshot/screenshot4.png)
 
 ## Prérequis
 
