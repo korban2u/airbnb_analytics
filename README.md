@@ -9,13 +9,6 @@
 
 **Une application web Django pour analyser les prix Airbnb tout au long de l'année et trouver le meilleur moment pour voyager**
 
-[Fonctionnalités](#fonctionnalités) • 
-[Captures d'écran](#captures-décran) • 
-[Installation](#installation) • 
-[Utilisation](#utilisation) • 
-[Structure](#structure-du-projet) • 
-[Contribution](#contribution)
-
 </div>
 
 ## ✨ Fonctionnalités
